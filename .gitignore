@@ -2,3 +2,5 @@ node_modules
 notes-api-webserver.pem 
 note-api-webserver.pem
 new_user_credentials.csv
+.env
+.prod.env
